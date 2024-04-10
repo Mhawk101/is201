@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: rgb(2, 9, 0);
+}
+li {
+    font-family: sans-serif;
+    font-size: small;
+    color:black;
+    font-weight: normal;
+    font-style: italic;
+}
+.Educationheading{
+    font-weight:bold ;
+    font-style: normal ;
+}
+.underline{text-decoration: underline;}
+.bold{font-weight: bold;}
+.justify{text-align: justify;}
+
+.homebg{
+    background-image: url(../images/greenhill\ zone);
+    background-position: top right;
+}
+a{text-decoration: none;}
+a:hover{
+    text-decoration: underline;
+    font-weight: bold;
+}
+a:visited{
+    color:blueviolet
+}
+
+.box1{
+    border-width:  1px;
+    border-style: solid;
+    border-color:darksalmon
+
+    /*border:1px solid chocolate;*/
+
+}
+
+.box2{
+    padding: 5px;
+}
+
+.box3{
+ margin: 50px;
+ 
+}
